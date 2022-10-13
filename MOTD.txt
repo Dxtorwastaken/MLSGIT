@@ -7,5 +7,3 @@ gorilla tag one Enjoy!
 -Dxtor
 
 -Public Version 2.00
-Hi
--Daquan
