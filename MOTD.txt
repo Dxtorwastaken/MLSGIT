@@ -1,5 +1,8 @@
-MONKE MONKE MONKE
+Hey I made the MOTD board work now so at
+any time it could change so look out for that!
+I also fixed the hit sounds so you can move and
+no be stuck! Enjoy!
 
 -Dxtor
 
--Public Version 1.50
+-Public Version 2.00
