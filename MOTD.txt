@@ -1,7 +1,8 @@
 Hey I made the MOTD board work now so at
 any time it could change so look out for that!
 I also fixed the hit sounds so you can move and
-no be stuck! Enjoy!
+not be stuck! I change the computer to the orignal 
+gorilla tag one Enjoy!
 
 -Dxtor
 
