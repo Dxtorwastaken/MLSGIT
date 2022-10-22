@@ -1,3 +1,4 @@
+Welcome tester's
 Hey I made the MOTD board work now so at
 any time it could change so look out for that!
 I also fixed the hit sounds so you can move and
@@ -6,7 +7,7 @@ gorilla tag one Enjoy!
 
 -Dxtor
 
--Public Version 2.00
+-Test Version 2.00
 
 
 
