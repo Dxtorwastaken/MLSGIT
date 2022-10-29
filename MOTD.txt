@@ -1,12 +1,11 @@
 Welcome tester's
-Hey I made the MOTD board work now so at
-any time it could change so look out for that!
-I also fixed the hit sounds so you can move and
-not be stuck! I change the computer to the orignal 
-gorilla tag one Enjoy!
+Hey I just finished the leaderboard and name system!
+Its now fall with some fall cosmetics! The turkey
+fingers dont work yet but I plan on fixing that,
+Enjoy the fall update!
 
 -Dxtor
 
--Test Version 2.00
+-Beta Version 5.40
 
 
