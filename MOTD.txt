@@ -1,11 +1,11 @@
-Welcome tester's
+Welcome player's
 Hey I just finished the leaderboard and name system!
 Its now fall with some fall cosmetics! The turkey
-fingers dont work yet but I plan on fixing that,
+fingers are not fineshed yet but I plan on fixing that,
 Enjoy the fall update!
 
 -Dxtor
 
--Beta Version 5.40
+-Version 5.40
 
 
