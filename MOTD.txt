@@ -6,6 +6,6 @@ Enjoy the fall update!
 
 -Dxtor
 
--Version 5.40
+-Version 6.00
 
 
