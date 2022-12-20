@@ -1,8 +1,5 @@
-Hey monkes! Fall is coming to a end soon and expect a new
-Christmas update in the next week or two! I wanted to 
-start Christmas earlier because alot of people love
-Christmas!
+Welcome to the applab alpha! This is for applab testing, this is where I perpare and get things setup for the applab release! Nothing in here is permanent so things might change! Any saved data you had before the applab release will be gone, sorry! Go have fun and test!
 
--Dxtor
+-Dxtor | Alpha 1.15
 
 
