@@ -1,3 +1,3 @@
-Welcome to the applab! This is for applab, Nothing in here is permanent so things might change! Any saved data you had before the applab release will be gone, sorry! Go have fun!
+Welcome to the applab alpha! This is for applab testing, this is where I perpare and get things setup for the applab release! Nothing in here is permanent so things might change! Any saved data you had before the applab release will be gone, sorry! Go have fun and test!
 
--Dxtor | Alpha 1.15
+-Dxtor | Live 1.0
