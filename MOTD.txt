@@ -1,5 +1,7 @@
-Welcome to the applab alpha! This is for applab testing, this is where I perpare and get things setup for the applab release! Nothing in here is permanent so things might change! Any saved data you had before the applab release will be gone, sorry! Go have fun and test!
+Sorry to say this but we are no longer working on the game and have moved on to a new game called Monke Chasers, the discord is linked below!
 
--Dxtor | Live 1.0
+https://discord.gg/monkechasersvr
+
+-VCX | Live 1.0
 
 
