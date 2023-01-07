@@ -1,3 +1,7 @@
-Hey monkes I removed lockdown YAY!
+Hey monkes new update! Also I will give you a 3 day warning when the sesonal cosmetics go away!
 
--Dxtor | Live 1.2.1
+Bug fixes ->
+-Fixed out of map glitch
+-Tried to fix head gitting stuck
+
+-Dxtor | Live 1.2.2
