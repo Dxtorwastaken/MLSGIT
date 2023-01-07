@@ -1,7 +1,7 @@
-Hey monkes new update! Also I will give you a 3 day warning when the sesonal cosmetics go away!
+Hey monkes new update! Also I will give you a 3 day warning when the seasonal cosmetics go away!
 
 Bug fixes ->
 -Fixed out of map glitch
--Tried to fix head gitting stuck
+-Tried to fix head getting stuck
 
--Dxtor | Live 1.2.2
+-Dxtor | Live 1.2.2 
