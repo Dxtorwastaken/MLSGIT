@@ -1,7 +1,7 @@
-Hey monkes new update! Also I will give you a 3 day warning when the seasonal cosmetics go away!
+Hey monkes new update!
 
-Bug fixes ->
--Fixed out of map glitch
--Tried to fix head getting stuck
+Changes ->
+-Light changes, New glass contaniers showing off what the exculsive cosmetics!
+-NO MORE SEASONAL COSMETICS! Little bit of kickhammer reworks.
 
--Dxtor | Live 1.2.2 
+-Dxtor | Live 1.2.8
