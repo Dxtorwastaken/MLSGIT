@@ -1,7 +1,15 @@
 Hey monkes new update!
 
 Changes ->
--Light changes, New glass contaniers showing off what the exculsive cosmetics!
--NO MORE SEASONAL COSMETICS! Little bit of kickhammer reworks.
+-Monster now chases the person closest to him
+-Basketball is back
+-New vent system
+-Pool is back for now
+-Offline playermodel
+-More cosmetics
+-Playfab currency
+-Little bug fixes
 
--Dxtor | Live 1.2.8
+Lets hope I didnt break this update
+
+-Dxtor | Live 1.2.16
