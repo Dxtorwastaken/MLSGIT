@@ -7,4 +7,4 @@ Changes ->
 
 Lets hope I didnt break this update
 
--Dxtor | Live 1.2.18
+-Dxtor | Live 1.2.19
