@@ -1,15 +1,10 @@
 Hey monkes new update!
 
 Changes ->
--Monster now chases the person closest to him
--Basketball is back
--New vent system
--Pool is back for now
--Offline playermodel
--More cosmetics
--Playfab currency
--Little bug fixes
+-MiniMonke is now your color!
+-Kickgun SHOOTS NOW!
+-Removed broken tag! (Wasnt suppose to be in the game)
 
 Lets hope I didnt break this update
 
--Dxtor | Live 1.2.17
+-Dxtor | Live 1.2.18
