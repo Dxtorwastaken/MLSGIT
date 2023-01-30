@@ -1,10 +1,8 @@
-Hey monkes new update!
+Hey monkes new bert!
 
 Changes ->
--MiniMonke is now your color!
--Kickgun SHOOTS NOW!
--Removed broken tag! (Wasnt suppose to be in the game)
+-New mines and lore
+-Extended shop
+-No more pool or mountains (for now)
 
-Lets hope I didnt break this update
-
--Dxtor | Live 1.2.19
+-Dxtor
