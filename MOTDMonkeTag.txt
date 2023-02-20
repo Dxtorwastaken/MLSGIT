@@ -1,2 +1,7 @@
-Hey monkes I just wanted to let you know that Im remaking the game kinda so it might be a week from now
+So the remake is done but there is a few bugs ->
+- Cant buy cosmetics
+- baning does not work
+- might be some holes
+
+Im just really tired so I cant fix them today
 -Dxtor
