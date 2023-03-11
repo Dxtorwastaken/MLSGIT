@@ -1,7 +1,6 @@
-So the remake is done but there is a few bugs ->
-- Cant buy cosmetics
-- baning does not work
-- might be some holes
+New update! ->
+- Room codes
+- Random rooms
+- Free cosmetics
 
-Im just really tired so I cant fix them today
 -Dxtor
