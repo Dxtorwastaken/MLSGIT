@@ -2,5 +2,6 @@ New update! ->
 - New Vent Systen
 - Fixed out of map glitch
 - HORROR IS FINNALY HERE! (MIGHT BE GLITCHY)
+- Fixed hand bug (I think)
 
 -Dxtor
