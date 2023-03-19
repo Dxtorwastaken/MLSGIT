@@ -1,5 +1,14 @@
 New update! ->
-- Fixed horror and added telport
-on jumpscare
+- Not using photon vr anymore
+- One button cosmetics
+- Gift does not hid name anymore (For OVO)
+- New server switcher and room codes
+- Update Booster Bundle
+- Added Basketball back
+- Added Campfire and Trampoline
+- Updated Stump
+- Made mines darker
+- Add Ambinience too forest and fixed cave Ambinience
+- Bug Fixes
 
 -Dxtor
