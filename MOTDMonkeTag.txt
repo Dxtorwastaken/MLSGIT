@@ -1,5 +1,9 @@
 New update! ->
-- Added kickgun
-- Fixed out of map glitch
+- Added pool with new pool themed cosmetics
+- made it darker with lights around the map
+- bug fixes
+- new bbgun cosmetics
+- music cosmetics for music designer (lil sticky, Outcast artist)
+- might be some bugs
 
 -Dxtor
