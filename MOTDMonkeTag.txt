@@ -1,18 +1,10 @@
-"Remake"! ->
+Update! ->
 
 Changelog ->
--Lv2 is out!
--Lv1 changes
--Graphics Upgrade
--Daytime
--2nd level to forest
--Stump revamp
--Wardrobe room in shop
--New cosmetics
--Moutains tunnel
--Umbrella changed in Pool Set
--Bug fixes
--Water rising gamemode coming next update
+-New player model
+-Bouncy bug fixed
+-Reduced lag
+ 
 
 
 discord.gg/hfx8Kf7Gjg
