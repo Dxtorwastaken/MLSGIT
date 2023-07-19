@@ -1,6 +1,10 @@
-A new update will be releasing at the end of July! ->
+Bug fix ->
 
-Everyone can now play Monke Chasers as the games rating has been changed from a 12+ to a E rated game meaning Everyone can now play the game without any parental restrictions and or general oculus setting restriction's.
+-Fixed water
+-Adjusted flashlight
+-Fixed random flinging
+-Removed debug cube
+-Other st uff
 
 discord.gg/BBvMsfvJam
-- Love Melon And Dxtor
+- Dxtor
