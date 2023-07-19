@@ -4,7 +4,7 @@ Bug fix ->
 -Adjusted flashlight
 -Fixed random flinging
 -Removed debug cube
--Other st uff
+-Other stuff
 
 discord.gg/BBvMsfvJam
 - Dxtor
