@@ -1,5 +1,7 @@
-Welcome to the release of Monke Tag!
+Small patch! 2.0
 
-Happy spooky month, the monkes have done there fair share decorating the maps in the some halloween decore!
-There are some halloween cosmetics in shop that you can pickup to, show your halloween spirt! Make sure you get the Day 1 cosmetics because, they only last 10 days!
-There is a issue with infection that casues lag, I hope to fix it but for now just know that it can get laggy. Enjoy your time being a monke and maybe explore the deepest parts of mines, I heard there something down there...
+--ADDED--
+- NameFilter System
+
+--REMOVED/FIXED--
+- Fixed music not being in forest
