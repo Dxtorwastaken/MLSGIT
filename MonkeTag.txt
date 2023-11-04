@@ -1,7 +1,5 @@
-Small patch! 2.0
+Small update! 2.0.1
 
 --ADDED--
-- NameFilter System
-
---REMOVED/FIXED--
-- Fixed music not being in forest
+- Changed the Dxtor cosmetics
+- Added a Co Owner Badge
