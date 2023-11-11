@@ -1,5 +1,13 @@
-Small update! 2.0.1
+Winter Update! 2.1
 
 --ADDED--
-- Changed the Dxtor cosmetics
-- Added a Co Owner Badge
+- New banning system (Thx to josh)
+- Added snow on the ground and made it snow in forest
+- Added a demo level 2 (Not final level 2, No monster)
+- Made lv1 monster faster
+- Made it overcast
+
+--REMOVED/FIXED--
+- Replaced halloween forest music with normal
+- Removed reporting
+- Removed Day 1 and Halloween cosmetics
