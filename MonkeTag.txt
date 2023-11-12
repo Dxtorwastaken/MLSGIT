@@ -1,6 +1,7 @@
-Bug Patch! 2.2
+Bug Patch! 2.2.1
 
 --REMOVED/FIXED--
-- Fixed flashlight not enabling when coming out of lvl2
-- Fixed the monster not being fast (Made flashlight dimmer)
-- Fixed when you are tagged your color disappears
+- Removed snow (Temporarily) 
+- Fixed Freezing when starting the game
+- Fixed lag
+- Fixed monster enabling in Minigames
