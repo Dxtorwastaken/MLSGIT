@@ -1,3 +1,2 @@
-Well last night didn't go well...  The New Years Update is here! Here 
-are some things I added/fixed, New Years Cosmetics have been added, Rising Lava gamemode, Added
-jiggle physics to the fingers, you can now enter any map when in a private code (Thx to joshh), and fixed some bugs.
+Big performance update! This update should help will performace/crashes, but there still
+are some frame drops in forest.
