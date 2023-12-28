@@ -1,4 +1,2 @@
-OoOoo It's chilly out there, If I were you, I would head down to the shop to get some
-winter gear to prep for them harsh winds. Maybe then, you could head on down to mountains, I heard its nice 
-this time of year! Us Monkes, have been decorating for Christmas. Can't you believe I'ts almost here.
-Well enough of me, go out there and explore!
+Quick patch to fix some things, I added rising lava until pvp comes out, music in mountains, 
+fixed some lighting issues, added jiggle physics to the fingers, and improved performance in forest!
