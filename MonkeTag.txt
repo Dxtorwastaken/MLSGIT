@@ -1,2 +1,2 @@
-Big performance update! This update should help will performace/crashes, but there still
-are some frame drops in forest.
+Performance Update! Removed jiggle physics and
+improved performance a lil bit.
