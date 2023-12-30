@@ -1,2 +1,2 @@
-Performance Update! Removed jiggle physics and
-improved performance a lil bit.
+Bug fix update! Fixed santa suit, Monster being enabled in casual, 
+offline body slowly deforming, and other little stuff.
