@@ -1,2 +1,1 @@
-Welcome to the Monke Tag Remake! We have added some new features you might enjoy! Offline Cosmetics/Colors, Try on Mirror and Checkout System, Music you can 
-listen to ingame (The only playlist is the Monke Tag Soundtrack V1), and New and improved lighting/graphics! Go explore Forest, MapHub/Shop/Fanart, Canyons, Beach, Monkiest Labs, and "it"...
+Moved ModMenu and Soundboard Enable buttons to top floor of stump/Fixed buying Menus
